@@ -1,3 +1,4 @@
 stockfish-windows-x86-64-avx2
-objs/*
+objs
+__pycache__
 
